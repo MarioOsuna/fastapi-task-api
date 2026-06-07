@@ -1,6 +1,6 @@
 # fastapi-task-api
 
-REST API de gestión de tareas con autenticación JWT. Demuestra FastAPI + Pydantic v2 + SQLAlchemy 2.0 + Alembic en una estructura lista para producción.
+REST API de gestión de tareas con autenticación JWT. FastAPI + Pydantic v2 + SQLAlchemy 2.0 + Alembic
 
 ## Stack
 
